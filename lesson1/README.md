@@ -8,5 +8,5 @@
 
 ## 作业
 
-1. 基于simple-spider.py进行修改，抓取腾讯网（www.qq.com）的第一条新闻标题。
+1. 基于simple-spider.py进行修改，抓取腾讯网（ www.qq.com ）的第一条新闻标题。
 
